@@ -149,25 +149,20 @@ $ system_message
 🏆 ACHIEVEMENT_PROTOCOL
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gramach0&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/> </div>
 🐍 CONTRIBUTION_SNAKE
-<div align="center">
-
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake Animation"
-src="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake-dark.svg">
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake.svg"
+  />
 </picture>
-
-</div>
 🌐 CONNECT_WITH_ME
 <div align="center"> <a href="https://www.linkedin.com/in/abraão-gramacho-37453217b"> <img src="https://img.shields.io/badge/LINKEDIN-Abraão%20Gramacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Gramach0"> <img src="https://img.shields.io/badge/GITHUB-Gramach0-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 🧠 DEVELOPER_MINDSET
