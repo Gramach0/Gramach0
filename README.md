@@ -152,7 +152,6 @@ NEW PROJECT DETECTED
 
 </div>
 
-
 🎯 CURRENT_OBJECTIVES.sh
 ┌──(gramach0㉿jarvis)-[~/objectives]
 └─$ cat goals.txt
@@ -175,7 +174,6 @@ FOCUS: BUILDING THE FUTURE
 
 JARVIS: All systems operational.
 📊 GITHUB_ANALYTICS
-
 
 <div align="center">
 
