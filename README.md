@@ -1,14 +1,29 @@
 <!-- ============================================================ -->
-<!--                 GRAMACH0 | JARVIS V2.0                      -->
+
+<!-- GRAMACH0 • JARVIS DEVELOPER PROFILE -->
+
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B3D91,100:00D4FF&text=GRAMACH0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=JARVIS%20DEVELOPER%20INTERFACE%20%E2%80%A2%20SYSTEM%20ONLINE&descSize=17&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0B3D91,100:00D4FF&text=GRAMACH0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=JARVIS%20DEVELOPER%20INTERFACE%20%E2%80%A2%20SYSTEM%20ONLINE&descSize=17&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+Developer+Profile...;%3E+Loading+Gramach0...;%3E+ADS+Student+%7C+Self-Taught+Developer;%3E+Web+Development+%7C+AI+%7C+Data+Science;%3E+Building+the+future%2C+one+line+at+a+time." />
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              ██████╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗     ║
+║             ██╔════╝██╔══██╗██╔══██╗██║   ██║██║██╔════╝     ║
+║             ██║     ███████║██████╔╝██║   ██║██║███████╗     ║
+║             ██║     ██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║     ║
+║             ╚██████╗██║  ██║██║  ██║ ╚████╔╝ ██║███████║     ║
+║              ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝     ║
+║                                                              ║
+║               SYSTEM INITIALIZATION COMPLETE                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+JARVIS+Developer+Interface...;%3E+Loading+Developer%3A+Gramach0...;%3E+Autodidata+%7C+ADS+Student+%7C+Tech+Enthusiast;%3E+Web+Development+%7C+AI+%7C+Data+Science;%3E+Building+the+future%2C+one+line+at+a+time." />
 
 <br>
 
@@ -16,35 +31,15 @@
 
 </div>
 
----
-
-# 🤖 JARVIS_SYSTEM.exe
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│         J.A.R.V.I.S. DEVELOPER INTERFACE            │
-│                                                     │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  USER:        Gramach0                              │
-│  STATUS:      ONLINE ●                              │
-│  MODE:        DEVELOPER                             │
-│  SYSTEM:      LEARNING & BUILDING                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-
-<div align="center">
-
-🧠 SOBRE_MIM.exe
+🤖 ABOUT_ME.exe
 identity:
   username: Gramach0
   name: "Abraão Gramacho"
 
 role:
+  - Developer in Progress
   - ADS Student
   - Self-taught Developer
-  - Technology Enthusiast
 
 background:
   - Computer Networks
@@ -58,10 +53,12 @@ interests:
   - Network Security
 
 mission: >
-  Transform complex problems into
-  creative and efficient solutions.
+  Transforming complex problems into
+  creative and efficient technological solutions.
 
-system_status: ONLINE
+status: ONLINE
+
+<div align="center">
 
 🧩 PROBLEM_SOLVER_MODE = ACTIVE
 
@@ -72,85 +69,110 @@ Atualmente, estou construindo minha trajetória na área de tecnologia através 
 </div>
 
 ⚡ TECH_STACK.sys
+
 <div align="center">
-💻 Programming
+
+💻 Languages
+
 <img src="https://skillicons.dev/icons?i=python,html,css,js,bash" />
 
 <br><br>
 
-🛠️ Development
+🌐 Development
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 <br><br>
 
-🖥️ Systems
-<img src="https://skillicons.dev/icons?i=linux,arch,windows" /> </div>
+🖥️ Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,arch,windows" />
+
+</div>
 
 🛠️ DEVELOPER_TOOLKIT
-<div align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,mysql" /> </div> <br>
-╔══════════════════════════════════════════════════════╗
-║                  SYSTEM TOOLKIT                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  CODE_EDITOR       ██████████  VS CODE               ║
-║  VERSION_CONTROL   ██████████  GIT                   ║
-║  PLATFORM          ██████████  GITHUB                ║
-║  OPERATING_SYSTEM  █████████░  LINUX                 ║
-║  DATABASE          ███████░░░  MYSQL                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-
+╔══════════════════════════════════════════════════════════╗
+║                    JARVIS TOOLKIT                       ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  CODE EDITOR         ▰▰▰▰▰▰▰▰▰▰   VS CODE              ║
+║  VERSION CONTROL     ▰▰▰▰▰▰▰▰▰▰   GIT                  ║
+║  SOURCE PLATFORM     ▰▰▰▰▰▰▰▰▰▰   GITHUB               ║
+║  OPERATING SYSTEM    ▰▰▰▰▰▰▰▰▰░   LINUX / ARCH         ║
+║  DATABASE            ▰▰▰▰▰▰▰░░░   MYSQL                ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 🚀 PROJECT_DATABASE
-<div align="center"> <table> <tr> <td width="50%" valign="top">
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
 🤖 AI LAB
 STATUS: INITIALIZING
-TYPE: ARTIFICIAL INTELLIGENCE
-LANGUAGE: PYTHON
+TYPE: Artificial Intelligence
+LANGUAGE: Python
 
-Projetos e experimentos voltados para:
+Exploração de conceitos relacionados à Inteligência Artificial, automação e programação.
 
-Inteligência Artificial
-Automação
-Python
-Lógica de Programação
-<a href="https://github.com/Gramach0"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+
+
+
+</td>
+
+<td width="50%" valign="top">
 
 🌐 WEB LAB
 STATUS: BUILDING
-TYPE: WEB DEVELOPMENT
+TYPE: Web Development
 TECH: HTML + CSS + JS
 
-Projetos focados em:
+Projetos focados em desenvolvimento web, interfaces e aplicações modernas.
 
-Desenvolvimento Web
-Interfaces
-Responsividade
-Experiência do Usuário
-<a href="https://github.com/Gramach0"> <img src="https://img.shields.io/badge/VIEW_PROJECT-007ACC?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 🔐 NETWORK LAB
 STATUS: RESEARCHING
-TYPE: INFRASTRUCTURE
-FOCUS: NETWORKS
+TYPE: Infrastructure
+FOCUS: Networks
 
-Estudos relacionados a:
+Estudos e experimentos envolvendo redes de computadores e infraestrutura.
 
-Redes de Computadores
-Linux
-Infraestrutura
-Segurança de Redes
-<a href="https://github.com/Gramach0"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00C896?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+
+
+
+</td>
+
+<td width="50%" valign="top">
 
 ⚙️ NEXT PROJECT
 STATUS: LOADING...
-
 ████████░░ 80%
 
 NEW PROJECT DETECTED
 
-🚀 Sempre aprendendo, criando e desenvolvendo novos projetos.
+🚀 Sempre trabalhando em novos projetos e aprendendo novas tecnologias.
 
-</td> </tr> </table> </div>
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 🎯 CURRENT_OBJECTIVES.sh
 ┌──(gramach0㉿jarvis)-[~/objectives]
@@ -184,12 +206,29 @@ CURIOSITY: ██████████ ∞
 FOCUS: BUILDING THE FUTURE
 
 JARVIS: All systems operational.
+📊 GITHUB_ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gramach0&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gramach0&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=00000000" />
+
+</div>
 
 🔥 CONTRIBUTION_STREAK
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gramach0&theme=transparent&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+</div>
+
+📈 ACTIVITY_GRAPH
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gramach0&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -243,19 +282,17 @@ JARVIS: All systems operational.
 
 <div align="center">
 
-⚙️ JARVIS_FINAL_MESSAGE
-<div align="center">
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║          THE FUTURE IS BUILT BY THOSE                ║
-║               WHO NEVER STOP LEARNING.               ║
-║                                                      ║
-║                  — GRAMACH0                          ║
-║                                                      ║
-║             JARVIS SYSTEM • ONLINE                   ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-
+🤖 JARVIS_FINAL_MESSAGE
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              "THE FUTURE IS BUILT BY THOSE                  ║
+║                   WHO NEVER STOP LEARNING."                  ║
+║                                                              ║
+║                      — GRAMACH0                             ║
+║                                                              ║
+║                JARVIS SYSTEM • ONLINE                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ⚡ CODE • CREATE • LEARN • EVOLVE
 
 <br>
