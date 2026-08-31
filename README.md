@@ -1,45 +1,50 @@
 <!-- ============================================================ -->
 
-<!-- GRAMACH0 • JARVIS DEVELOPER PROFILE -->
+<!-- GRAMACH0 • DEVELOPER PROFILE -->
 
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0B3D91,100:00D4FF&text=GRAMACH0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=JARVIS%20DEVELOPER%20INTERFACE%20%E2%80%A2%20SYSTEM%20ONLINE&descSize=17&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0B3D91,100:00D4FF&text=GRAMACH0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20INTERFACE%20%E2%80%A2%20SYSTEM%20ONLINE&descSize=17&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+JARVIS+Developer+Interface...;%3E+Loading+Developer%3A+Gramach0...;%3E+Autodidata+%7C+ADS+Student+%7C+Tech+Enthusiast;%3E+Web+Development+%7C+AI+%7C+Data+Science;%3E+Building+the+future%2C+one+line+at+a+time." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Developer+Interface...;%3E+Loading+Profile%3A+Gramach0...;%3E+ADS+Student+%7C+Self-taught+Developer;%3E+Python+%7C+Web+Development+%7C+Technology;%3E+Building+the+future%2C+one+line+at+a+time." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gramach0&label=PROFILE+VISITORS&color=00D4FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Gramach0&label=PROFILE+VISITORS&color=00D4FF&style=for-the-badge"/>
 
 </div>
 
-🤖 ABOUT_ME.exe
-identity:
-  username: Gramach0
+👨‍💻 ABOUT_ME.exe
+developer:
   name: "Abraão Gramacho"
+  username: "Gramach0"
 
 role:
-  - Developer in Progress
   - ADS Student
   - Self-taught Developer
+  - Developer in Progress
 
 background:
   - Computer Networks
   - Programming Logic
 
-interests:
+currently_learning:
+  - Python
   - Web Development
+  - Artificial Intelligence
+
+interests:
+  - Software Development
   - Artificial Intelligence
   - Data Science
   - Computer Networks
   - Network Security
 
 mission: >
-  Transform complex problems into
-  creative and efficient technological solutions.
+  Transform problems into creative,
+  efficient and technological solutions.
 
 status: ONLINE
 
@@ -49,9 +54,9 @@ status: ONLINE
 
 Sou um desenvolvedor em constante evolução, apaixonado por tecnologia e pela resolução de problemas.
 
-Atualmente, estou construindo minha trajetória profissional através da graduação em Análise e Desenvolvimento de Sistemas, estudos autodidatas e projetos práticos.
+Atualmente estou construindo minha trajetória através da graduação em Análise e Desenvolvimento de Sistemas, estudos autodidatas e projetos práticos.
 
-Meu objetivo é transformar conhecimento em soluções reais, evoluindo constantemente como desenvolvedor.
+Meu objetivo é transformar conhecimento em soluções reais e evoluir constantemente como desenvolvedor.
 
 </div>
 
@@ -61,35 +66,37 @@ Meu objetivo é transformar conhecimento em soluções reais, evoluindo constant
 
 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark"/>
 
 <br><br>
 
-🌐 Development & Tools
+🛠️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark"/>
 
 <br><br>
 
-🖥️ Systems & Infrastructure
+🖥️ Systems
 
-<img src="https://skillicons.dev/icons?i=linux,arch,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,windows&theme=dark"/>
 
 </div>
 
-🛠️ DEVELOPER_TOOLKIT
-╔══════════════════════════════════════════════════════════╗
-║                    JARVIS TOOLKIT                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  CODE EDITOR         ██████████   VS CODE               ║
-║  VERSION CONTROL     ██████████   GIT                   ║
-║  SOURCE PLATFORM     ██████████   GITHUB                ║
-║  OPERATING SYSTEM    █████████░   LINUX / ARCH          ║
-║  DATABASE            ███████░░░   MYSQL                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-🚀 PROJECT_DATABASE
+🧠 CURRENTLY_LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-00D4FF?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-BUILDING-007ACC?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-EXPLORING-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DATA_SCIENCE-EXPLORING-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+🚀 FEATURED_PROJECTS
 
 <div align="center">
 
@@ -99,23 +106,33 @@ Meu objetivo é transformar conhecimento em soluções reais, evoluindo constant
 
 <td width="50%" valign="top">
 
-🤖 AI LAB
-STATUS: INITIALIZING
-TYPE: Artificial Intelligence
-LANGUAGE: Python
+🐍 PYTHON PROJECTS
 
-Exploração de conceitos relacionados à Inteligência Artificial, automação e programação.
+Projetos desenvolvidos para praticar programação, lógica e resolução de problemas.
+
+Tecnologias
+
+🐍 Python
+
+⚙️ Automação
+
+🧠 Lógica de Programação
 
 </td>
 
 <td width="50%" valign="top">
 
-🌐 WEB LAB
-STATUS: BUILDING
-TYPE: Web Development
-TECH: HTML + CSS + JavaScript
+🌐 WEB PROJECTS
 
-Projetos focados em desenvolvimento web, interfaces modernas e aplicações.
+Projetos focados em desenvolvimento de interfaces e aplicações web.
+
+Tecnologias
+
+HTML
+
+CSS
+
+JavaScript
 
 </td>
 
@@ -125,24 +142,33 @@ Projetos focados em desenvolvimento web, interfaces modernas e aplicações.
 
 <td width="50%" valign="top">
 
-🔐 NETWORK LAB
-STATUS: RESEARCHING
-TYPE: Infrastructure
-FOCUS: Computer Networks
+🤖 AI & DATA
 
-Estudos e experimentos envolvendo redes de computadores, infraestrutura e segurança.
+Exploração de Inteligência Artificial, automação e ciência de dados.
+
+Foco
+
+Machine Learning
+
+Python
+
+Data Analysis
 
 </td>
 
 <td width="50%" valign="top">
 
-⚙️ NEXT PROJECT
-STATUS: LOADING...
-PROGRESS: ████████░░ 80%
+🔐 NETWORK LAB
 
-NEW PROJECT DETECTED
+Estudos relacionados a redes de computadores, infraestrutura e segurança.
 
-🚀 Sempre trabalhando em novos projetos e aprendendo novas tecnologias.
+Foco
+
+Networking
+
+Linux
+
+Network Security
 
 </td>
 
@@ -153,18 +179,18 @@ NEW PROJECT DETECTED
 </div>
 
 🎯 CURRENT_OBJECTIVES.sh
-┌──(gramach0㉿jarvis)-[~/objectives]
+┌──(gramach0㉿developer)-[~/objectives]
 └─$ cat goals.txt
 [✓] Desenvolver projetos para o portfólio
 [✓] Evoluir constantemente em programação
-[✓] Aprofundar conhecimentos em Python
 
+[>] Aprofundar conhecimentos em Python
 [>] Aprender desenvolvimento Web
 [>] Explorar Inteligência Artificial
 [>] Estudar Ciência de Dados
 [>] Aprimorar conhecimentos em Redes
 [>] Contribuir para projetos Open Source
-┌──(gramach0㉿jarvis)-[~/objectives]
+┌──(gramach0㉿developer)-[~/objectives]
 └─$ system-status
 STATUS: LEARNING
 
@@ -172,22 +198,22 @@ MOTIVATION: ██████████ 100%
 CURIOSITY:  ██████████ ∞
 FOCUS: BUILDING THE FUTURE
 
-JARVIS: All systems operational.
+SYSTEM: ALL SYSTEMS OPERATIONAL
 📊 GITHUB_ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gramach0&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gramach0&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gramach0&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gramach0&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=00000000"/>
 
 </div>
 
-🔥 CONTRIBUTION_STREAK
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gramach0&theme=transparent&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gramach0&theme=transparent&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
 
 </div>
 
@@ -195,15 +221,15 @@ JARVIS: All systems operational.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gramach0&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gramach0&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
-🏆 ACHIEVEMENT_PROTOCOL
+🏆 GITHUB_ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gramach0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gramach0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
@@ -223,21 +249,7 @@ JARVIS: All systems operational.
 
 </div>
 
-🧠 LEARNING_PROTOCOL
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-00D4FF?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-BUILDING-007ACC?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-EXPLORING-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DATA_SCIENCE-EXPLORING-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
-🌐 CONNECT_PROTOCOL
+🌐 CONNECT
 
 <div align="center">
 
@@ -257,18 +269,11 @@ JARVIS: All systems operational.
 
 <div align="center">
 
-🤖 JARVIS_FINAL_MESSAGE
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              "THE FUTURE IS BUILT BY THOSE                  ║
-║                   WHO NEVER STOP LEARNING."                 ║
-║                                                              ║
-║                      — GRAMACH0                             ║
-║                                                              ║
-║                JARVIS SYSTEM • ONLINE                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-⚡ CODE • CREATE • LEARN • EVOLVE
+⚡ DEVELOPER_FINAL_MESSAGE
+
+"The future is built by those who never stop learning."
+
+🚀 CODE • CREATE • LEARN • EVOLVE
 
 <br>
 
