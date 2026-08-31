@@ -8,24 +8,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0B3D91,100:00D4FF&text=GRAMACH0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=JARVIS%20DEVELOPER%20INTERFACE%20%E2%80%A2%20SYSTEM%20ONLINE&descSize=17&descAlignY=58"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+JARVIS+Developer+Interface...;%3E+Loading+Developer%3A+Gramach0...;%3E+Autodidata+%7C+ADS+Student+%7C+Tech+Enthusiast;%3E+Web+Development+%7C+AI+%7C+Data+Science;%3E+Building+the+future%2C+one+line+at+a+time." />
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              ██████╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗     ║
-║             ██╔════╝██╔══██╗██╔══██╗██║   ██║██║██╔════╝     ║
-║             ██║     ███████║██████╔╝██║   ██║██║███████╗     ║
-║             ██║     ██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║     ║
-║             ╚██████╗██║  ██║██║  ██║ ╚████╔╝ ██║███████║     ║
-║              ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝     ║
-║                                                              ║
-║               SYSTEM INITIALIZATION COMPLETE                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+JARVIS+Developer+Interface...;%3E+Loading+Developer%3A+Gramach0...;%3E+Autodidata+%7C+ADS+Student+%7C+Tech+Enthusiast;%3E+Web+Development+%7C+AI+%7C+Data+Science;%3E+Building+the+future%2C+one+line+at+a+time." />
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Gramach0&label=PROFILE+VISITORS&color=00D4FF&style=for-the-badge" />
 
@@ -53,7 +38,7 @@ interests:
   - Network Security
 
 mission: >
-  Transforming complex problems into
+  Transform complex problems into
   creative and efficient technological solutions.
 
 status: ONLINE
@@ -62,9 +47,11 @@ status: ONLINE
 
 🧩 PROBLEM_SOLVER_MODE = ACTIVE
 
-Sou um desenvolvedor em constante evolução, com interesse em criar soluções eficientes e aprender novas tecnologias.
+Sou um desenvolvedor em constante evolução, apaixonado por tecnologia e pela resolução de problemas.
 
-Atualmente, estou construindo minha trajetória na área de tecnologia através da graduação em Análise e Desenvolvimento de Sistemas, estudos autodidatas e projetos práticos.
+Atualmente, estou construindo minha trajetória profissional através da graduação em Análise e Desenvolvimento de Sistemas, estudos autodidatas e projetos práticos.
+
+Meu objetivo é transformar conhecimento em soluções reais, evoluindo constantemente como desenvolvedor.
 
 </div>
 
@@ -74,19 +61,19 @@ Atualmente, estou construindo minha trajetória na área de tecnologia através 
 
 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,bash" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark" />
 
 <br><br>
 
-🌐 Development
+🌐 Development & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
 
 <br><br>
 
 🖥️ Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,arch,windows" />
+<img src="https://skillicons.dev/icons?i=linux,arch,windows&theme=dark" />
 
 </div>
 
@@ -95,11 +82,11 @@ Atualmente, estou construindo minha trajetória na área de tecnologia através 
 ║                    JARVIS TOOLKIT                       ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  CODE EDITOR         ▰▰▰▰▰▰▰▰▰▰   VS CODE              ║
-║  VERSION CONTROL     ▰▰▰▰▰▰▰▰▰▰   GIT                  ║
-║  SOURCE PLATFORM     ▰▰▰▰▰▰▰▰▰▰   GITHUB               ║
-║  OPERATING SYSTEM    ▰▰▰▰▰▰▰▰▰░   LINUX / ARCH         ║
-║  DATABASE            ▰▰▰▰▰▰▰░░░   MYSQL                ║
+║  CODE EDITOR         ██████████   VS CODE               ║
+║  VERSION CONTROL     ██████████   GIT                   ║
+║  SOURCE PLATFORM     ██████████   GITHUB                ║
+║  OPERATING SYSTEM    █████████░   LINUX / ARCH          ║
+║  DATABASE            ███████░░░   MYSQL                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 🚀 PROJECT_DATABASE
@@ -119,9 +106,6 @@ LANGUAGE: Python
 
 Exploração de conceitos relacionados à Inteligência Artificial, automação e programação.
 
-
-
-
 </td>
 
 <td width="50%" valign="top">
@@ -129,12 +113,9 @@ Exploração de conceitos relacionados à Inteligência Artificial, automação 
 🌐 WEB LAB
 STATUS: BUILDING
 TYPE: Web Development
-TECH: HTML + CSS + JS
+TECH: HTML + CSS + JavaScript
 
-Projetos focados em desenvolvimento web, interfaces e aplicações modernas.
-
-
-
+Projetos focados em desenvolvimento web, interfaces modernas e aplicações.
 
 </td>
 
@@ -147,12 +128,9 @@ Projetos focados em desenvolvimento web, interfaces e aplicações modernas.
 🔐 NETWORK LAB
 STATUS: RESEARCHING
 TYPE: Infrastructure
-FOCUS: Networks
+FOCUS: Computer Networks
 
-Estudos e experimentos envolvendo redes de computadores e infraestrutura.
-
-
-
+Estudos e experimentos envolvendo redes de computadores, infraestrutura e segurança.
 
 </td>
 
@@ -160,7 +138,7 @@ Estudos e experimentos envolvendo redes de computadores e infraestrutura.
 
 ⚙️ NEXT PROJECT
 STATUS: LOADING...
-████████░░ 80%
+PROGRESS: ████████░░ 80%
 
 NEW PROJECT DETECTED
 
@@ -177,32 +155,21 @@ NEW PROJECT DETECTED
 🎯 CURRENT_OBJECTIVES.sh
 ┌──(gramach0㉿jarvis)-[~/objectives]
 └─$ cat goals.txt
-
-
 [✓] Desenvolver projetos para o portfólio
-
 [✓] Evoluir constantemente em programação
-
 [✓] Aprofundar conhecimentos em Python
 
 [>] Aprender desenvolvimento Web
-
 [>] Explorar Inteligência Artificial
-
 [>] Estudar Ciência de Dados
-
 [>] Aprimorar conhecimentos em Redes
-
 [>] Contribuir para projetos Open Source
-
-
 ┌──(gramach0㉿jarvis)-[~/objectives]
 └─$ system-status
-
-
 STATUS: LEARNING
+
 MOTIVATION: ██████████ 100%
-CURIOSITY: ██████████ ∞
+CURIOSITY:  ██████████ ∞
 FOCUS: BUILDING THE FUTURE
 
 JARVIS: All systems operational.
@@ -250,7 +217,7 @@ JARVIS: All systems operational.
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake.svg">
 
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake-dark.svg">
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Gramach0/Gramach0/output/github-contribution-grid-snake-dark.svg">
 
 </picture>
 
@@ -274,9 +241,17 @@ JARVIS: All systems operational.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abraão-gramacho-37453217b"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/abraão-gramacho-37453217b">
 
-<a href="https://github.com/Gramach0"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Gramach0">
+
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -286,7 +261,7 @@ JARVIS: All systems operational.
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║              "THE FUTURE IS BUILT BY THOSE                  ║
-║                   WHO NEVER STOP LEARNING."                  ║
+║                   WHO NEVER STOP LEARNING."                 ║
 ║                                                              ║
 ║                      — GRAMACH0                             ║
 ║                                                              ║
